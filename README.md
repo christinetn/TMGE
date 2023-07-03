@@ -1,6 +1,6 @@
 # TMGE
 
-**How to Run**
+## How to Run
 
 CD into the jar folder and run `java -jar TMGELoader`
 You may need to add the option `--enable-preview`
@@ -10,7 +10,7 @@ You may need to add the option `--enable-preview`
 Created a tile maching game engine that accomodates the games SameGame and Bejeweled. 
 
 
-**Features**
+## Features
 - The TMGE makes it easy to create implementations of new games with its design. 
 - The TMGE provides a defined interface that all games built on top of the environment must follow.
 - The TMGE supports two players running on the same local machine.
